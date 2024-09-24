@@ -1,0 +1,19 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\Serki\.npm-global\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.8.2
+2 info using node@v20.16.0
+3 silly config load:file:C:\Users\Serki\.npm-global\node_modules\npm\npmrc
+4 silly config load:file:c:\Users\Serki\Desktop\node-express-course\05-JWT-Basics\starter\.npmrc
+5 silly config load:file:C:\Users\Serki\.npmrc
+6 silly config load:file:C:\Users\Serki\.npm-global\etc\npmrc
+7 verbose title npm view mongoose description dist-tags.latest homepage version time
+8 verbose argv "view" "--json" "--" "mongoose" "description" "dist-tags.latest" "homepage" "version" "time"
+9 verbose logfile logs-max:10 dir:c:\Users\Serki\Desktop\node-express-course\05-JWT-Basics\starter\$HOME\.npm-chace\_logs\2024-09-23T16_18_14_473Z-
+10 verbose logfile c:\Users\Serki\Desktop\node-express-course\05-JWT-Basics\starter\$HOME\.npm-chace\_logs\2024-09-23T16_18_14_473Z-debug-0.log
+11 silly logfile done cleaning log files
+12 http fetch GET 200 https://registry.npmjs.org/mongoose 398ms (cache miss)
+13 verbose cwd c:\Users\Serki\Desktop\node-express-course\05-JWT-Basics\starter
+14 verbose os Windows_NT 10.0.22631
+15 verbose node v20.16.0
+16 verbose npm  v10.8.2
+17 verbose exit 0
+18 info ok
